@@ -1,0 +1,7 @@
+[package]
+name = "tutorial8"
+version = "0.1.0"
+authors = ["Clara Scherer <git20357@s.cherer.de>"]
+
+[dependencies]
+jamkit = "*"
